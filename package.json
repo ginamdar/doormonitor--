@@ -1,0 +1,17 @@
+{
+  "name": "DoorMonitor-LWS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guru Inamdar",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "moment-timezone": "^0.5.23",
+    "momentjs": "^2.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
