@@ -2,7 +2,7 @@
 Alexa Contact Sensor - Lambda function
 
 ## Desciption
-You can use your Sensor e.g. ESP32 that publishses the event to topic for e.g. 'garage/honda' with message as 
+You can use your Sensor e.g. ESP32 that publishses the event to AWS IoT topic for e.g. 'garage/honda' with message as 
 ``` 
 { status: "OPEN", endpointId: "xxx-xxx" }
 ``` 
