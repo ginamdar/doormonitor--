@@ -18,7 +18,9 @@ Tables in DynamoDB
 ![](DynamoDB-Tables.PNG)
 
 ## References
-https://developer.amazon.com/blogs/alexa/post/bda9d70c-2f0d-454d-9939-2eb82868cf35/announcing-contact-and-motion-sensor-apis-and-integration-into-alexa-routines-adding-new-home-automation-features-for-customers-and-new-opportunities-for-smart-home-developers
+[Amazon Blog](https://developer.amazon.com/blogs/alexa/post/bda9d70c-2f0d-454d-9939-2eb82868cf35/announcing-contact-and-motion-sensor-apis-and-integration-into-alexa-routines-adding-new-home-automation-features-for-customers-and-new-opportunities-for-smart-home-developers)
 
-https://developer.amazon.com/docs/smarthome/build-smart-home-skills-for-sensors.html
+[Alexa Docs](https://developer.amazon.com/docs/smarthome/build-smart-home-skills-for-sensors.html)
+
+[Amazon RTOS - ESP32](https://docs.aws.amazon.com/freertos/latest/userguide/getting_started_espressif.html)
 
